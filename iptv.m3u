@@ -33,7 +33,7 @@ http://31.131.141.195:8000/play/2070/index.m3u8
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda-plus.png" tvg-id="zvezda-plus" group-title="Основные", Звезда+ HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="dozhd" tvg-logo="https://epg.iptvx.one/picons/dozhd.png", Rain HD
+#EXTINF:-1 group-title="Основные" tvg-id="dozhd" tvg-logo="https://epg.iptvx.one/picons/dozhd.png", Rain HD (СМИ Иногент)
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20083/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="Основные", Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -53,6 +53,8 @@ https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 https://edge07r.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.Bi4yLvFSGDeBQrBlYnBkVrP_xIQ6sit2jixB5CqkMHI.NjQke5z-cgpkBG3NatyoeHeMQk70ktO2j2tHxIMWIwI.1789120117.2d9629ff82bd99a2520eb4e6761dafbb
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rbk.png" tvg-id="rbk" group-title="Основные", РБК
+http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="deutsche-welle-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png", Deutsche Welle HD
 http://stream.mcquack.net/440/index.m3u8 
 #EXTINF:-1 group-title="Основные" tvg-id="euronews" tvg-logo="https://epg.iptvx.one/picons/euronews.png" audio-track="rus", Euronews
@@ -100,8 +102,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=AHyYF5k7S-kCLd06laF3_w&e=2069500976&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/spas.png" tvg-id="spas" group-title="Основные", Спас
 http://31.131.141.195:8000/play/2020/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ont-by.png" tvg-id="ont-by" group-title="Основные", ОНТ HD
-http://194.158.222.36:6102
 #EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://epg.iptvx.one/picons/krik-tv.png" group-title="Основные", КРИК-ТВ HD
 https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="cineman" tvg-rec="7", CineMan
@@ -148,8 +148,6 @@ http://7ebf9762.ucomist.net/iptv/R3A7B6MZZFDCUL/13038/index.m3u8
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/11031/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="vf-komedia"  tvg-logo="https://epg.iptvx.one/picons/vf-komedia.png", VF Комедия
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/10055/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="voenkino-tviksel" tvg-logo="http://epg.one/img2/6259.png", Военное кино HD
-http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18072/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy", Vip Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit" , Vip Megahit HD
@@ -192,12 +190,14 @@ https://cdn.kinolar.workers.dev/PlanB_HD/mono.m3u8?key=halvatv
 https://cdn.kinolar.workers.dev/ULTRAHD/mono.m3u8?key=halvatv  
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda", Победа
 http://94.155.93.182/POBEDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Кино" ,День Победы
+http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv21m.png" tvg-id="tv21m" group-title="Кино", ТВ21
 http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="voenkino-tviksel" tvg-logo="http://epg.one/img2/6259.png", Военное кино HD
 http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18072/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png", Патриот
-https://stream-msk-18.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc4OTE2NjIyMSwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg4NTYxNDIxLCJzZXNzaW9uX2lkIjoiN2JiMjM2ZTE1M2RmYjU3YjdmZDU1N2RmOTFkOWYzMzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.n9Vqp0gbIspTzi5A8W4XmrsRksMQpG8gpJRr1p1jQWQ
+http://146.158.15.254:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino" tvg-name="Дом кино", Дом кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium" group-title="Кино", Дом кино Premium HD
@@ -294,7 +294,7 @@ https://tinyurl.com/2x47stw5/906.m3u8
 https://tinyurl.com/2x47stw5/902.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/premialnoe-hd.png" tvg-id="premialnoe-hd" group-title="Кино", Премиальное HD
 https://tinyurl.com/2x47stw5/901.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" tvg-id="kion-xit" group-title="Кино", Кион Хит HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" tvg-id="kion-xit" group-title="Кино", КИОН Хит HD
 https://tinyurl.com/teh55yef/20211/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
