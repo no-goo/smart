@@ -189,9 +189,9 @@ https://cdn.kinolar.workers.dev/PlanB_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 group-title="Кино" tvg-id="ultra-hd-cinema", ULTRA HD CINEMA 4K
 https://cdn.kinolar.workers.dev/ULTRAHD/mono.m3u8?key=halvatv  
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda", Победа
-http://94.155.93.182/POBEDA_HD/index.m3u8
+https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="Кино" ,День Победы
-http://iptv.mega.net.ru:8888/Den_pobedy_hd/index.m3u8
+http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MDM3ODc2NiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg5NzczOTY2LCJzZXNzaW9uX2lkIjoiMjVlM2M2M2Q2MGVhMGE4NGZlZjI5M2QzNGQ0MDUyMGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.zpa9O30r8vsJpMY25801UNY9VENe_PgzfbJ2lHxUiPI
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv21m.png" tvg-id="tv21m" group-title="Кино", ТВ21
 http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="voenkino-tviksel" tvg-logo="http://epg.one/img2/6259.png", Военное кино HD
