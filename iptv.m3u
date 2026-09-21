@@ -197,7 +197,7 @@ http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="voenkino-tviksel" tvg-logo="http://epg.one/img2/6259.png", Военное кино HD
 http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18072/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png", Патриот
-http://146.158.15.254:8000/play/a00i/index.m3u8
+https://stream-msk-18.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODYwMjk2MyIsImV4cCI6MTc5MDM3ODc2NiwiaHdpZCI6IjRjYzRkODliOGI2ODIxZTZhZGM5NDdiZGRlMmRkMmQ2MDM3MjYzMTM3ODFhODk2Nzc4MGNjMDI2YzRhZmE0ZDUiLCJsYXN0X3JlcV9kYXRlIjoxNzg5NzczOTY2LCJzZXNzaW9uX2lkIjoiMjVlM2M2M2Q2MGVhMGE4NGZlZjI5M2QzNGQ0MDUyMGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.zpa9O30r8vsJpMY25801UNY9VENe_PgzfbJ2lHxUiPI
 #EXTINF:-1 group-title="Кино" tvg-id="domkino" tvg-name="Дом кино", Дом кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium" group-title="Кино", Дом кино Premium HD
@@ -206,10 +206,8 @@ http://tv.ttk.mx:9084
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epg.iptvx.one/picons/lubimoe-kino.png" group-title="Кино", Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png", Cinema
-http://185.46.16.239:8000/Cinema
-#EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png", Cinema
-http://185.46.16.239:8000/Cinema
+#EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png", Cinema HD
+http://195.64.140.147:10055/55
 #EXTINF:-1 group-title="Кино" tvg-id="kinosat" tvg-logo="https://epg.iptvx.one/picons/kinosat.png", Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино" tvg-id="tv1000-action-cee"  tvg-logo="https://epg.iptvx.one/picons/tv1000-action-cee.png" , Viasat Kino Action
@@ -723,15 +721,3 @@ http://msk1.radio-holding.ru:9000/marusya_default
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 group-title="Радио" tvg-id="radio-mir" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/3837efaf-a586-40a4-9970-6fdc3f17f401/", Радио Мир Spb
 http://195.128.157.86:8000/Mir_SPB_Studio
-
-
-
-
-
-
-
-
-
-
-
-
