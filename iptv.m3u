@@ -1,10 +1,12 @@
-#EXTM3U url-tvg="url-tvg="https://iptvx.one/EPG",https://iptvx.one/EPG_NOARCH"
+#EXTM3U url-tvg="url-tvg="https://iptvx.one/EPG", https://iptvx.one/EPG_NOARCH"
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 group-title="Основные" tvg-id="pervy" audio-track="rus", Первый канал 
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1" group-title="Основные", Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="rossia1", Россия 1 HD.Смоленск
+https://live-gtrk.smotrim.ru/vgtrk/smolensk/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1" audio-track="rus", Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv" tvg-logo="https://epg.iptvx.one/picons/ntv.png", НТВ HD 
@@ -305,11 +307,7 @@ https://tinyurl.com/2x47stw5/902.m3u8
 https://tinyurl.com/2x47stw5/1031.m3u8
 #EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="https://epg.iptvx.one/picons/kinopokaz.png" group-title="Кино", Кинопоказ HD
 http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="lavstori-hd" tvg-logo="http://epg.one/img/9001.png", Лавстори HD
-https://tinyurl.com/aleks-u-romki-40/2034/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="pro-lyubov" tvg-logo="http://epg.one/img/2829.png", Про Любовь HD
-https://tinyurl.com/aleks-u-romki-40/2430/index.m3u
-#EXTINF:-1 group-title="Кино" audio-track="rus", Про любовь HD
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://epg.one/img/2829.png" , Про любовь HD
 http://89.33.29.115:8080/pro_lyubov/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="nash-kinopokaz" group-title="Кино", Наш Кинопоказ HD
 https://tinyurl.com/4tfv9tup/2434/index.m3u8
@@ -321,8 +319,10 @@ https://tinyurl.com/2x47stw5/906.m3u8
 https://tinyurl.com/2x47stw5/902.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/premialnoe-hd.png" tvg-id="premialnoe-hd" group-title="Кино", Премиальное HD
 https://tinyurl.com/2x47stw5/901.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="Komedia", Комедия
+#EXTINF:-1 group-title="Кино" tvg-id="Komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png", Комедия
 http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="shokiruyushchee-hd" tvg-logo="http://epg.one/img/2309.png", Шокирующее 
+http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kion-xit.png" tvg-id="kion-xit" group-title="Кино", КИОН Хит HD
 https://tinyurl.com/teh55yef/20211/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
