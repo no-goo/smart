@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="Основные", Первый 
 http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="pervy" audio-track="rus", Первый канал HD
-https://stream3.cinerama.uz/1214/mono.m3u8
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 group-title="Основные" tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1", Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1"tvg-logo="https://epg.iptvx.one/picons/rossia1.png", Россия 1 HD.Смоленск
@@ -10,9 +10,9 @@ https://live-gtrk.smotrim.ru/vgtrk/smolensk/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1" audio-track="rus", Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv" tvg-logo="https://epg.iptvx.one/picons/ntv.png", НТВ HD 
-https://cdn.ntv.ru/ntv0/playlist.m3u8 
+ http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv" tvg-logo="https://epg.iptvx.one/picons/ntv.png", НТВ HD 
-https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
+http://flussonic.linkintel.ru/ntv/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv-mir" audio-track="rus"  tvg-logo="https://epg.iptvx.one/picons/ntv-mir.png", НТВ-Мир
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png", Пятый канал
