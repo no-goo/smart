@@ -254,10 +254,6 @@ https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/12024/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино"  tvg-id="tv1000-cee"  tvg-logo="https://epg.iptvx.one/picons/tv1000-cee.png",  Viasat Kino 
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/12031/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="vip-comedy-cee" tvg-logo="https://epg.iptvx.one/picons/vip-comedy-cee.png" audio-track="rus", Viasat Kino Comedy HD
-#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
 #EXTINF:-1 tvg-rec="0" group-title="Кино" tvg-id="tv1000-worldkino" tvg-logo="https://epg.iptvx.one/picons/tv1000-worldkino.png",  Viasat Kino World HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31448/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="0" audio-track="rus" tvg-id="kinoliving" tvg-logo="https://epg.iptvx.one/picons/kinoliving.png", Kinoliving 
@@ -594,7 +590,7 @@ https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
 #EXTINF:-1 group-title="Детские",Детский мир
 http://tv.ttk.mx:9063
-#EXTINF:-1 tvg-rec="0" group-title="Кино"  tvg-id="familyjam" tvg-logo="https://epg.iptvx.one/picons/familyjam.png", FamilyJam HD
+#EXTINF:-1 tvg-rec="0" group-title="Детские" tvg-id="familyjam" tvg-logo="https://epg.iptvx.one/picons/familyjam.png", FamilyJam HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20210/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epg.iptvx.one/picons/2na2.png" group-title="Детские",2x2 HD
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=csWYUddw7ZPKX2UHThswTg&e=2073777408&scheme=https
