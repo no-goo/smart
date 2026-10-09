@@ -10,7 +10,7 @@ https://live-gtrk.smotrim.ru/vgtrk/smolensk/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1" audio-track="rus", Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv" tvg-logo="https://epg.iptvx.one/picons/ntv.png", НТВ HD 
- http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv" tvg-logo="https://epg.iptvx.one/picons/ntv.png", НТВ HD 
 http://flussonic.linkintel.ru/ntv/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv-mir" audio-track="rus"  tvg-logo="https://epg.iptvx.one/picons/ntv-mir.png", НТВ-Мир
@@ -112,6 +112,8 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 http://195.64.140.147:10074/74
 #EXTINF:-1 group-title="Кино" tvg-id="domkino" tvg-name="Дом кино", Дом кино
 http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="detkinoint-tviksel" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png", Детское кино International
+http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium" group-title="Кино", Дом кино Premium HD
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epg.iptvx.one/picons/mosfilm.png" group-title="Кино", Мосфильм. Золотая коллекция HD
@@ -134,14 +136,14 @@ http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18072/index.m3u8
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31928/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="bolt-ru" tvg-logo="https://epg.iptvx.one/picons/bolt.png", Bolt HD
 http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png", Star Cinema
-http://185.195.184.30:8000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="https://iptvx.one/picons/start-air.png" tvg-id="start-air", Start Air
 https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Кино" audio-track="rus", Start Air HD
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png", Start Air HD
 http://195.64.140.147:10063/63
 #EXTINF:-1 group-title="Кино" tvg-id="start-world" tvg-logo="https://epg.iptvx.one/picons/start-world.png", START World 
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Кино", Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Наше крутое HD
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Наше новое кино
@@ -186,10 +188,12 @@ https://tinyurl.com/upwnsw7p/15106/index.m3u8
 http://cdntv.online/high/wn49ab7yv5/1256.mpeg 
 #EXTINF:-1 group-title="Кино" tvg-id="minimax-comedy", MM Комедия HD
 http://7ebf9762.ucomist.net/iptv/R3A7B6MZZFDCUL/13038/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="bcu-comedy" ,BCU Comedy HDR
-http://103.163.132.53/iptv/W7KZBRRZFVH9MN/11031/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="minimax-classic" tvg-logo="https://epg.iptvx.one/picons/minimax-classic.png", MM Комедия Classic HD
+http://103.163.132.53/iptv/PV75VQNMKV69RQ/13037/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="vf-komedia"  tvg-logo="https://epg.iptvx.one/picons/vf-komedia.png", VF Комедия
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/10055/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="bcu-comedy"  tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png",  BCU Comedy HDR
+http://103.163.132.53/iptv/W7KZBRRZFVH9MN/11031/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy", Vip Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-megahit" , Vip Megahit HD
@@ -198,6 +202,18 @@ https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-serial" ,Vip Serial HD
 http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png", viju TV1000 novella HD 
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="viju-tv1000-novella" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-novella.png", viju TV1000 novella HD 
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="viju-tv1000-romantica" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png", viju TV1000 romantica HD 
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000.ru", viju TV1000 
+http://46.53.200.153:7777/play/TV_1000/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-action" ,viju TV1000 action 
+http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino", viju TV1000 russkoe 
+http://46.53.200.153:7777/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Кино" group-title="Кино"tvg-id="fresh-comedy" tvg-rec="7" timeshift="7", Fresh Comedy
 http://stream.mcquack.net/426/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fresh-family" tvg-rec="7" timeshift="7", Fresh Family
@@ -228,6 +244,8 @@ http://stream.mcquack.net/423/index.m3u8
 http://stream.mcquack.net/424/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b" tvg-name="Plan B HD", PLAN B HD 
 https://cdn.kinolar.workers.dev/PlanB_HD/mono.m3u8?key=halvatv 
+#EXTINF:-1 group-title="Кино" tvg-id="vhska-serial", VHS-ка Сериал HD
+https://tinyurl.com/teh55yef/31931/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png", Cinema 
 http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosat" tvg-logo="https://epg.iptvx.one/picons/kinosat.png", Киносат
@@ -237,7 +255,11 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/12024/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино"  tvg-id="tv1000-cee"  tvg-logo="https://epg.iptvx.one/picons/tv1000-cee.png",  Viasat Kino 
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/12031/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vip-comedy-cee" tvg-logo="https://epg.iptvx.one/picons/vip-comedy-cee.png" audio-track="rus", Viasat Kino Comedy HD
-http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
+#EXTINF:-1 tvg-rec="0" group-title="Кино" tvg-id="tv1000-worldkino" tvg-logo="https://epg.iptvx.one/picons/tv1000-worldkino.png",  Viasat Kino World HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31448/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="0" audio-track="rus" tvg-id="kinoliving" tvg-logo="https://epg.iptvx.one/picons/kinoliving.png", Kinoliving 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/445/index.m3u8 
@@ -246,12 +268,16 @@ http://stream.mcquack.net/445/index.m3u8
 http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино"  tvg-id="kinokult" tvg-logo="https://epg.iptvx.one/picons/kinokult.png" , КиноКульт HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31914/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино" tvg-id="tv1000-worldkino" tvg-logo="https://epg.iptvx.one/picons/tv1000-worldkino.png",  Viasat Kino World HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31448/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="filmua-drama" tvg-logo="https://epg.iptvx.one/picons/filmua-drama.png", FilmUADrama HD
 http://stream.mcquack.net/273/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино"  tvg-id="familyjam" tvg-logo="https://epg.iptvx.one/picons/familyjam.png", FamilyJam HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20210/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="kino-1" tvg-logo="https://epg.iptvx.one/picons/kino-1.png", Kino 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="kino-1-hd" tvg-logo="https://epg.iptvx.one/picons/kino-1-hd.png", Kino 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="tvg-id="filmUA-live", FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино"  tvg-id="kinojam2" tvg-logo="https://epg.iptvx.one/picons/kinojam2.png", KinoJam 2 HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/7261/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4ever-cinema" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/4ever-cinema.png", 4ever Cinema 
@@ -273,8 +299,6 @@ http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/15110/index.m3u8
 #EXTINF:-1 group-title="Кино" 
 #EXTINF:-1 tvg-rec="0" group-title="Кино" tvg-id="romance" tvg-logo="https://epg.iptvx.one/picons/romance.png", Romance HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2037/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="bcu-comedy"  tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png",  BCU Comedy HDR
-http://103.163.132.53/iptv/W7KZBRRZFVH9MN/11031/index.m3u8
 #EXTINF:-1  group-title="Кино" tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino", Родное кино 
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino" group-title="Кино", Наше новое кино
@@ -307,8 +331,6 @@ https://tinyurl.com/2x47stw5/902.m3u8
 https://tinyurl.com/2x47stw5/1031.m3u8
 #EXTINF:-1 tvg-id="kinopokaz-hd" tvg-logo="https://epg.iptvx.one/picons/kinopokaz.png" group-title="Кино", Кинопоказ HD
 http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="http://epg.one/img/2829.png" , Про любовь HD
-http://89.33.29.115:8080/pro_lyubov/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="nash-kinopokaz" group-title="Кино", Наш Кинопоказ HD
 https://tinyurl.com/4tfv9tup/2434/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/khit.png", Хит HD
@@ -572,6 +594,8 @@ https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
 #EXTINF:-1 group-title="Детские",Детский мир
 http://tv.ttk.mx:9063
+#EXTINF:-1 tvg-rec="0" group-title="Кино"  tvg-id="familyjam" tvg-logo="https://epg.iptvx.one/picons/familyjam.png", FamilyJam HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20210/index.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epg.iptvx.one/picons/2na2.png" group-title="Детские",2x2 HD
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=csWYUddw7ZPKX2UHThswTg&e=2073777408&scheme=https
 #EXTINF:-1 tvg-id="2x2" group-title="Детские",2x2
@@ -631,7 +655,7 @@ https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://niknik.tv/images/logo.png" tvg-id="no_epg_mult" group-title="Детские", NikNik-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" group-title="Музыкальные",1HD Music
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" tvg-id="1hd" group-title="Музыка",1HD Music
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music
 http://176.118.197.101/1HD/mono.m3u8
@@ -641,62 +665,61 @@ http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Hits
 http://stream.mcquack.net/320/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/88047.png" tvg-id="no_epg_music" group-title="Музыкальные",Deluxe Dance
+#EXTINF:-1 tvg-logo="http://epg.one/img2/88047.png" tvg-id="no_epg_music" group-title="Музыка",Deluxe Dance
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=OEDc7YtWFRVhgnKKuNV2Vw&e=2069285078&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one./picons/deluxe-music-de.png" tvg-id="deluxe-music-de" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://telik.live/images/v2beat.png" tvg-id="no_epg_music" group-title="Музыкальные",V2BEAT HD
+#EXTINF:-1 tvg-logo="https://telik.live/images/v2beat.png" tvg-id="no_epg_music" group-title="Музыка",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0924/b4/206c12e5512b5f3646db19d45c620bb4.png" tvg-id="no_epg_music" group-title="Музыкальные",radio m2o
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0924/b4/206c12e5512b5f3646db19d45c620bb4.png" tvg-id="no_epg_music" group-title="Музыка",radio m2o
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.imgur.com/dQJQv1X.png" tvg-id="KRONEHIT_HD", KRONEHIT HD 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/dQJQv1X.png" tvg-id="KRONEHIT_HD", KRONEHIT HD 
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" tvg-id="no_epg_music" group-title="Музыкальные",Kiss TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" tvg-id="no_epg_music" group-title="Музыка",Kiss TV
 http://livestream.siliconweb.com/live/kissfm/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge
 http://stream.mcquack.net/318/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Classic
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-http://62.32.84.50:18000/play/a0lf/index.m3u8
-#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png" group-title="Музыкальные",Bridge Deluxe HD
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png" group-title="Музыка",Bridge Deluxe HD
 http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png" group-title="Музыкальные",Bridge TV Hits
+#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png" group-title="Музыка",Bridge TV Hits
 http://62.32.84.50:18000/play/a0lc/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-fresh.png" group-title="Музыкальные",Bridge TV FRESH
+#EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="https://epg.iptvx.one/picons/bridge-tv-fresh.png" group-title="Музыка",Bridge TV FRESH
 http://stream-tv-prostar.hf.space/ch/9230?key=AB001829BB
-#EXTINF:-1 tvg-id="muztv" tvg-logo="https://epg.iptvx.one/picons/muztv.png" group-title="Музыкальные",Муз ТВ HD
+#EXTINF:-1 tvg-id="muztv" tvg-logo="https://epg.iptvx.one/picons/muztv.png" group-title="Музыка",Муз ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
-#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://epg.iptvx.one/picons/ru-tv.png" group-title="Музыкальные",RU.TV HD
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://epg.iptvx.one/picons/ru-tv.png" group-title="Музыка",RU.TV HD
 http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
-#EXTINF:-1 group-title="Музыкальные",Mezzo
+#EXTINF:-1 group-title="Музыка",Mezzo
 http://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo Live HD
 http://stream.mcquack.net/276/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="tnt-music" group-title="Музыкальные",FON Music
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="tnt-music" group-title="Музыка",FON Music
 http://185.46.16.239:8000/Nashe_TV
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="tnt-music" group-title="Музыкальные",FON Music HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="tnt-music" group-title="Музыка",FON Music HD
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=6QcJACKS47Q7h0LTv8kAgw&e=2071746933&scheme=https
-#EXTINF:-1 group-title="Музыкальные",Шансон ТВ
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
-#EXTINF:-1 group-title="Музыкальные",Музыка Первого
+#EXTINF:-1 group-title="Музыка",Музыка Первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные",MCM Top
+#EXTINF:-1 group-title="Музыка",MCM Top
 http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/city-tv-bg.png" tvg-id="city-tv-bg" group-title="Музыкальные",City TV
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/city-tv-bg.png" tvg-id="city-tv-bg" group-title="Музыка",City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus" group-title="Музыкальные",VIVA Russia
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus" group-title="Музыка",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus" group-title="Музыкальные",VIVA Russia rut
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus" group-title="Музыка",VIVA Russia rut
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=gMiCSZ4n6zXhu914XD0K0Q&e=2088807415&scheme=https
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" tvg-id="europa-plus-tv" group-title="Музыкальные", Europa Plus TV
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" tvg-id="europa-plus-tv" group-title="Музыка", Europa Plus TV
 http://stream.mcquack.net/184/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/deejaytv-it.png" tvg-id="no_epg_music" group-title="Музыкальные",Deejay TV
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/deejaytv-it.png" tvg-id="no_epg_music" group-title="Музыка",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-77.userapi.com/impf/nNai67zCi4neIS8l4QLfgnnWVuhl_fotKh-Nxw/64vA7mNVAHA.jpg?size=443x398&quality=96&sign=12ca16e7ca675d44f59977116dc59f6d&c_uniq_tag=wDKxRd8s_gFvBGjnDUmOEBkJF6kO59JXXGpEoTgAMEw&type=album" tvg-id="no_epg_music" group-title="Музыкальные", Record Megamix
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
-#EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000003457.png" tvg-id="no_epg_music" group-title="Музыкальные",Clubbing TV
+#EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000003457.png" tvg-id="no_epg_music" group-title="Музыка",Clubbing TV
 http://46.151.151.250:9201
-#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/DTlogo.png" tvg-id="no_epg_music" group-title="Музыкальные",EDM Mainstage
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/DTlogo.png" tvg-id="no_epg_music" group-title="Музыка",EDM Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 group-title="Радио"tvg-name="Серебряный Дождь" tvg-logo="https://img02.rl0.ru/afisha/e1500x-i/daily.afisha.ru/uploads/images/3/21/321c163cbb3007479edc99449c8d2929.png", Радио Серебряный дождь
 http://silverrain.hostingradio.ru/silver128.mp3
