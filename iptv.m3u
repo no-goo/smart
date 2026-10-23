@@ -12,7 +12,7 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv" tvg-logo="https://epg.iptvx.one/picons/ntv.png", НТВ HD 
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv" tvg-logo="https://epg.iptvx.one/picons/ntv.png", НТВ HD 
-http://flussonic.linkintel.ru/ntv/index.m3u8
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv-mir" audio-track="rus"  tvg-logo="https://epg.iptvx.one/picons/ntv-mir.png", НТВ-Мир
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png", Пятый канал
