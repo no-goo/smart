@@ -110,6 +110,8 @@ http://cdn.ntv.ru/th_serial/mono.m3u8
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="khit-hd" tvg-logo="https://iptvx.one/picons/ntv-xit.png" , НТВ-Хит HD
 http://195.64.140.147:10074/74
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="Кинозалы" ,Смотрим (Кино и сериалы)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino" tvg-name="Дом кино", Дом кино
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="detkinoint-tviksel" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png", Детское кино International
@@ -239,8 +241,10 @@ http://stream.mcquack.net/423/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7" tvg-id="fresh-premiere",FRESH PREMIERE
 http://stream.mcquack.net/424/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b" tvg-name="Plan B HD", PLAN B HD 
-https://cdn.kinolar.workers.dev/PlanB_HD/mono.m3u8?key=halvatv 
-#EXTINF:-1 group-title="Кино" tvg-id="vhska-serial", VHS-ка Сериал HD
+https://cdn.kinolar.workers.dev/PlanB_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka",VHS-ка
+https://tinyurl.com/teh55yef/5006/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vhska-serial",VHS-ка Сериал HD
 https://tinyurl.com/teh55yef/31931/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png", Cinema 
 http://flussonic.linkintel.ru/cinema/index.m3u8
@@ -677,6 +681,8 @@ http://livestream.siliconweb.com/live/kissfm/index.m3u8
 http://stream.mcquack.net/318/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Classic
 https://rec101.24h.tv/hlsjwt/b25e26dc27d69ac0586ab76d166509cc3fb40c46-389-0-24h475032591-1-1595448244-1792754384-e128-LolXAhwcGRVsKCixxzhoxnEDLzVBFGZyoqBLG7n3fmc/index.m3u8?ml=true
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Classic
+http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd" tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png",Bridge Deluxe HD
@@ -704,7 +710,7 @@ https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://epg.iptvx.one/picons/city-tv-bg.png" tvg-id="city-tv-bg",City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus",VIVA Russia
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+https://s16.24h.tv/hlsjwt/787cd347483b406222d3079bf002429634ac99b6-5038-0-24h475032591-1-1595448244-1792835015-e128-opQ24TPexIvdg4AhQQaolHNDl0Eps2eh6xVxx6VgPu4/index.m3u8?ml=true
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus",VIVA Russia rut
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=gMiCSZ4n6zXhu914XD0K0Q&e=2088807415&scheme=https
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" tvg-id="europa-plus-tv", Europa Plus TV
@@ -757,9 +763,9 @@ http://montecarlo.hostingradio.ru/montecarlo128.mp3
 http://maximum.hostingradio.ru/maximum128.mp3
 #EXTINF:-1 group-title="Радио" tvg-id="RadioEnergy" tvg-logo="https://logo-teka.com/wp-content/uploads/2026/01/radio-energy-logo.svg", Радио NRG
 http://gpm.hostingradio.ru/gpm-energyfm495.aacp
-#EXTINF:-1 group-title="Радио" tvg-id="Radio7" tvg-name="Радио 7" tvg-logo="https://emg.fm/uploads/assets/5_5017.png", Радио 7 
+#EXTINF:-1 group-title="Радио" "tvg-id="radio-na7xolmax" tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png", Радио 7 
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
-#EXTINF:-1 group-title="Радио" tvg-id="russkoe-radio" tvg-name="Русское радио" tvg-logo="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE.png", Русское Радио
+#EXTINF:-1 group-title="Радио" tvg-id="russkoe-radio"  tvg-logo="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE.png", Русское Радио
 http://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:-1 group-title="Радио" tvg-id="EuropaPlus" tvg-logo="https://emg.fm/uploads/assets/2_4425.svg", Европа плюс
 http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
