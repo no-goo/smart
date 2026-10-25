@@ -5,7 +5,7 @@ http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=S18LD_G9b2BgxLMuDWfQPQ&e=2072222109&scheme=https
 #EXTINF:-1 group-title="Основные" tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="rossia1", Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="rossia1"tvg-logo="https://epg.iptvx.one/picons/rossia1.png", Россия 1 HD.Смоленск
+#EXTINF:-1 group-title="Основные" tvg-id="rossia1"tvg-logo="https://epg.iptvx.one/picons/rossia1.png", Россия 1 HD-Смоленск
 https://live-gtrk.smotrim.ru/vgtrk/smolensk/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1" audio-track="rus", Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -112,6 +112,8 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 http://195.64.140.147:10074/74
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn" group-title="Кино", Кино и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg",Смотрим (Кино и сериалы)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino" tvg-name="Дом кино", Дом кино
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="detkinoint-tviksel" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png", Детское кино International
