@@ -25,7 +25,7 @@ http://178.124.153.123:44400/5kanal
 #EXTINF:-1 group-title="Основные" tvg-id="moskva-24" tvg-logo="https://epg.iptvx.one/picons/moskva-24.png", Moskva 24 
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные", ТВЦ 
-https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
+http://flussonic.linkintel.ru/tvc/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные", ТВЦ
 http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://epg.iptvx.one/picons/kultura.png" group-title="Основные", Россия K
