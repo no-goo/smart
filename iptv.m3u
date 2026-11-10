@@ -13,8 +13,6 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv" tvg-logo="https://epg.iptvx.one/picons/ntv.png", НТВ HD 
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
-#EXTINF:-1 group-title="Основные" tvg-id="ntv-mir" audio-track="rus"  tvg-logo="https://epg.iptvx.one/picons/ntv-mir.png", НТВ-Мир
-http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png", Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/piaty-int.png" tvg-id="5kanal-ru" group-title="Основные", Пятый канал HD
@@ -160,11 +158,11 @@ https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Кино", Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman" tvg-rec="7", CineMan
-https://tinyurl.com/4tfv9tup/11004/index.m3u8
+http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-premium" tvg-rec="3",CineMan Premium
 https://tinyurl.com/4tfv9tup/20112/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-top" tvg-rec="7", CineMan Top
-https://tinyurl.com/4tfv9tup/11005/index.m3u8
+#EXTINF:-1 group-title="Кино"  tvg-id="cineman-top" tvg-rec="7", CineMan Top
+http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-action" tvg-rec="7", CineMan Action
 https://tinyurl.com/4tfv9tup/11006/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-thriller" tvg-rec="7", CineMan Thriller
@@ -186,17 +184,17 @@ https://tinyurl.com/upwnsw7p/31626/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-ruserials" tvg-rec="0", CineMan Комедийные Сериалы
 https://tinyurl.com/upwnsw7p/31628/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-svaty" tvg-rec="7", CineMan Сваты
-https://tinyurl.com/upwnsw7p/11014/index.m3u8
+http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/13051/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="liberty-svaty", LIBERTY Сваты
 http://cdntv.online/low/wn49ab7yv5/2013.mpeg
+#EXTINF:-1 group-title="Кино" tvg-id="bcu-svaty",BCU Сваты HD
+http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/11047/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vf-swty" tvg-logo="https://epg.iptvx.one/picons/vf-swty.png", VF Сваты
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13080/manifest.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="MMSvatyHD", MM Сваты HD
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13051/index.m3u8  
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-disasters" tvg-rec="0", CineMan Катастрофы
 https://tinyurl.com/upwnsw7p/15106/index.m3u8
-#EXTINF:-1 group-title="Кино"  tvg-id="cineman-top", CineMan Top
-http://cdntv.online/high/wn49ab7yv5/1256.mpeg 
 #EXTINF:-1 group-title="Кино" tvg-id="minimax-comedy", MM Комедия HD
 http://7ebf9762.ucomist.net/iptv/R3A7B6MZZFDCUL/13038/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="5515" tvg-logo="http://epg.one/img2/5515.png" tvg-rec="0",BCU Comedy HDR
