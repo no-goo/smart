@@ -25,7 +25,7 @@ https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=378
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные", ТВЦ 
 http://flussonic.linkintel.ru/tvc/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" tvg-id="tvcentr" group-title="Основные", ТВЦ
-http://31.131.141.195:8000/play/1100/index.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://epg.iptvx.one/picons/kultura.png" group-title="Основные", Россия K
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zvezda.png" tvg-id="zvezda" group-title="Основные", Звезда
@@ -305,14 +305,14 @@ http://185.46.16.239:8000/Kino_TV
 https://tinyurl.com/teh55yef/5006/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vhska-serial",VHS-ка Сериал HD
 https://tinyurl.com/teh55yef/31931/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://raw.githubusercontent.com/UFOTVM/LOGO/refs/heads/main/SeleCaoTV.png",SeleCaoTV Кино
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fx-pl", FX HD
 http://stream.mcquack.net/182/index.m3u8 
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="foxlife", FX Life HD
 http://stream.mcquack.net/129/index.m3u8 
-#EXTINF:-1 group-title="Кино" audio-track="rus", Наше крутое HD
+#EXTINF:-1 group-title="Кино" audio-track="rus", Наше HD
 http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-muzhskoe",Наше мужское HD 
+http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Наше новое кино
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1  group-title="Кино" tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino", Родное кино 
@@ -414,7 +414,7 @@ http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="nst" tvg-logo="https://epg.iptvx.one/picons/nst.png", НСТ
 http://stream.mcquack.net/207/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kino-tv.png" tvg-id="kino-tv" group-title="Кино", КиноТВ HD
-http://tv.ttk.mx:9113
+https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="flixsnip", FlixSnip
 http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" audio-track="rus", Shot TV
@@ -697,10 +697,14 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Музыка" tvg-id="3673",NRJ Hits HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19199/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-rec="3" tvg-id="aiva",AIVA TV HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTC DDWQAE4SMA/2156/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Музыка" tvg-id=o2tv" tvg-logo="https://epg.iptvx.one/picons/o2tv.png",о2тв HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2141/index.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Deluxe
-http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge
+http://stream.mcquack.net/318/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus" tvg-rec="7" timeshift="7", Bridge Classic
+http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Hits
@@ -715,16 +719,13 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://i115.fastpic.org/big/2021/0924/b4/206c12e5512b5f3646db19d45c620bb4.png" tvg-id="no_epg_music",radio m2o
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-logo="https://telik.live/images/mixm-tv.png" tvg-id="no_epg_music" group-title="Музыкальные", MM TB rut
+#EXTINF:-1 tvg-logo="https://telik.live/images/mixm-tv.png" tvg-id="no_epg_music" group-title="Музыка", MM TB rut
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=v7dOOrEjRKjoFtTAlfRRcg&e=2088807401&scheme=https
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/dQJQv1X.png" tvg-id="KRONEHIT_HD", KRONEHIT HD 
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" tvg-id="no_epg_music" group-title="Музыка",Kiss TV
 http://livestream.siliconweb.com/live/kissfm/index.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge
-http://stream.mcquack.net/318/index.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Classic
-https://rec101.24h.tv/hlsjwt/b25e26dc27d69ac0586ab76d166509cc3fb40c46-389-0-24h475032591-1-1595448244-1792754384-e128-LolXAhwcGRVsKCixxzhoxnEDLzVBFGZyoqBLG7n3fmc/index.m3u8?ml=true
+
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd" tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png",Bridge Deluxe HD
@@ -739,6 +740,10 @@ https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JT
 http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
 #EXTINF:-1 group-title="Музыка",Mezzo
 http://live-3.otcnet.ru/Mezzo/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="song-tv-ru",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="russian-musicbox",Russian MusicBox 
+http://stream.mcquack.net/319/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo Live HD
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="tnt-music",FON Music
