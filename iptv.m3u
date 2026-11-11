@@ -58,6 +58,8 @@ http://31.131.141.195:8000/play/2010/index.m3u8
 http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="deutsche-welle-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png", Deutsche Welle HD
 http://stream.mcquack.net/440/index.m3u8 
+#EXTINF:-1 group-title="Основные" tvg-id="bbc" tvg-logo="https://epg.iptvx.one/picons/bbc.png",BBC news
+http://85.117.61.84/bbc/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="euronews" tvg-logo="https://epg.iptvx.one/picons/euronews.png" audio-track="rus", Euronews
 https://stream1.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" audio-track="rus" tvg-id="rt-news" tvg-logo="https://epg.iptvx.one/picons/rt-news.png", RT HD
@@ -157,27 +159,31 @@ http://195.64.140.147:10063/63
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Кино", Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman" tvg-rec="7", CineMan
+#EXTINF:-1 group-title="Кино" tvg-id="bcu" tvg-rec="7" timeshift="7",BCU
+http://stream.mcquack.net/488/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="4682" tvg-rec="7", CineMan
 http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-premium" tvg-rec="3",CineMan Premium
 https://tinyurl.com/4tfv9tup/20112/index.m3u8
-#EXTINF:-1 group-title="Кино"  tvg-id="cineman-top" tvg-rec="7", CineMan Top
+#EXTINF:-1 group-title="Кино" tvg-id="4683"  tvg-rec="7", CineMan Top
 http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-action" tvg-rec="7", CineMan Action
+#EXTINF:-1 group-title="Кино" tvg-id="4684" tvg-rec="7", CineMan Action
 https://tinyurl.com/4tfv9tup/11006/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-thriller" tvg-rec="7", CineMan Thriller
+#EXTINF:-1 group-title="Кино" tvg-id="4684" tvg-rec="7", CineMan Thriller
 https://tinyurl.com/4tfv9tup/11007/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-melodrama" tvg-rec="7", CineMan Мелодрама
-https://tinyurl.com/4tfv9tup/11008/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-marvel" tvg-rec="7", CineMan Marvel
+#EXTINF:-1 group-title="Кино" tvg-id="4686" tvg-rec="7", CineMan Мелодрама
+https://tinyurl.com/4tfv9tup/11008/index.
+#EXTINF:-1 group-title="Кино" tvg-id="5585" tvg-rec="0", CineMan Катастрофы
+https://tinyurl.com/upwnsw7p/15106/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="4687" tvg-rec="7", CineMan Marvel
 https://tinyurl.com/4tfv9tup/11009/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-fitnes" tvg-rec="7", CineMan Ужасы
+#EXTINF:-1 group-title="Кино" tvg-id="4688" tvg-rec="7", CineMan Ужасы
 https://tinyurl.com/4tfv9tup/11010/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-comedy" tvg-rec="7", CineMan Комедия
+#EXTINF:-1 group-title="Кино" tvg-id="4689"  tvg-rec="7", CineMan Комедия
 https://tinyurl.com/4tfv9tup/11011/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-vhs" tvg-rec="7", CineMan VHS
+#EXTINF:-1 group-title="Кино"  tvg-id="4690" tvg-rec="7", CineMan VHS
 https://tinyurl.com/4tfv9tup/11012/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-rukino" tvg-rec="7", CineMan РуКино
+#EXTINF:-1 group-title="Кино" tvg-id="4691" tvg-rec="7", CineMan РуКино
 https://tinyurl.com/4tfv9tup/11013/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-gluhar" tvg-rec="0", CineMan Криминальные Сериалы
 https://tinyurl.com/upwnsw7p/31626/index.m3u8
@@ -193,8 +199,6 @@ http://103.163.132.53/iptv/WCCXLCW7ZS8NZH/11047/index.m3u8
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13080/manifest.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="MMSvatyHD", MM Сваты HD
 http://103.163.132.53/iptv/W7KZBRRZFVH9MN/13051/index.m3u8  
-#EXTINF:-1 group-title="Кино" tvg-id="cineman-disasters" tvg-rec="0", CineMan Катастрофы
-https://tinyurl.com/upwnsw7p/15106/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="minimax-comedy", MM Комедия HD
 http://7ebf9762.ucomist.net/iptv/R3A7B6MZZFDCUL/13038/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="5515" tvg-logo="http://epg.one/img2/5515.png" tvg-rec="0",BCU Comedy HDR
@@ -223,63 +227,41 @@ http://46.53.200.153:7777/play/TV_1000/index.m3u8
 http://46.53.200.153:7777/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino", viju TV1000 russkoe 
 http://46.53.200.153:7777/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
-https://cityeden.catcast.tv/content/38398/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinoazia", Сити Эдем — КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinoklas", Сити Эдем — КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinomist", Сити Эдем — КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinosem", Сити Эдем — КиноСемья
-https://cityeden.catcast.tv/content/38128/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinoact", Сити Эдем — КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино" tvg-id="cityedem-telenov" , Сити Эдем — ТелеНовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино" group-title="Кино"tvg-id="fresh-comedy" tvg-rec="7" timeshift="7", Fresh Comedy
-http://stream.mcquack.net/426/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-family" tvg-rec="7" timeshift="7", Fresh Family
-http://stream.mcquack.net/427/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-rating" tvg-rec="7" timeshift="7", Fresh Rating
-http://stream.mcquack.net/422/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-vhs" tvg-rec="7" timeshift="7", Fresh VHS
-http://stream.mcquack.net/428/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-fantastic" tvg-rec="7" timeshift="7", Fresh Fantastic
-http://stream.mcquack.net/429/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-series" tvg-rec="7" timeshift="7", Fresh Series
-http://stream.mcquack.net/430/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-horror" tvg-rec="7" timeshift="7", Fresh Horror
-http://stream.mcquack.net/431/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-adventure" tvg-rec="7" timeshift="7", Fresh Adventure
-http://stream.mcquack.net/432/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-romatic" tvg-rec="7" timeshift="7", Fresh Romantic
-http://stream.mcquack.net/433/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-thriller" tvg-rec="7" timeshift ", Fresh Thriller
-http://stream.mcquack.net/434/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="fresh-kids" tvg-rec="7" timeshift="7", Fresh Kids
-http://stream.mcquack.net/425/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7" tvg-id="fresh-cinema", FRESH CINEMA 
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7" tvg-id="6105", FRESH CINEMA 
 http://stream.mcquack.net/423/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7" tvg-id="fresh-premiere",FRESH PREMIERE
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7" tvg-id="6712",FRESH PREMIERE
 http://stream.mcquack.net/424/index.m3u8
+#EXTINF:-1 group-title="Кино" group-title="Кино" tvg-id="6711" tvg-rec="7" timeshift="7", Fresh Comedy
+http://stream.mcquack.net/426/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="6713" tvg-rec="7" timeshift="7", Fresh Family
+http://stream.mcquack.net/427/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="6714" tvg-rec="7" timeshift="7", Fresh Rating
+http://stream.mcquack.net/422/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="6715" tvg-rec="7" timeshift="7", Fresh VHS
+http://stream.mcquack.net/428/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="6716" tvg-rec="7" timeshift="7", Fresh Fantastic
+http://stream.mcquack.net/429/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="6717" tvg-rec="7" timeshift="7", Fresh Series
+http://stream.mcquack.net/430/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="6718" tvg-rec="7" timeshift="7", Fresh Horror
+http://stream.mcquack.net/431/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="6718" tvg-rec="7" timeshift="7", Fresh Adventure
+http://stream.mcquack.net/432/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="6718" tvg-rec="7" timeshift="7", Fresh Romantic
+http://stream.mcquack.net/433/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="6722" tvg-rec="7" timeshift ", Fresh Thriller
+http://stream.mcquack.net/434/index.m3u8
+#EXTINF:-1 group-title="Кино"  tvg-rec="7" timeshift="7", Fresh Kids
+http://stream.mcquack.net/425/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b" tvg-name="Plan B HD", PLAN B HD 
 http://stream.mcquack.net/196/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="0"  tvg-id="romance" tvg-logo="https://epg.iptvx.one/picons/romance.png", Romance 
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кino_kanal
+http://stream.mcquack.net/470/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="0"  tvg-id="romance" tvg-logo="https://epg.iptvx.one/picons/romance.png", Romance HD 
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2037/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png", Cinema 
 http://flussonic.linkintel.ru/cinema/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinosat" tvg-logo="https://epg.iptvx.one/picons/kinosat.png", Киносат
+#EXTINF:-1 group-title="Кино" tvg-id="kinosat" tvg-logo="https://epg.iptvx.one/picons/kinosat.png", Киноман
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosweet" tvg-rec="7" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/kinosweet.png" tvg-rec="7" timeshift="7",Kinosweet
 http://stream.mcquack.net/447/index.m3u8
@@ -289,7 +271,7 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/12024/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/12031/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="0" tvg-id="tv1000-worldkino" tvg-logo="https://epg.iptvx.one/picons/tv1000-worldkino.png",  Viasat Kino World HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31448/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="3" audio-track="rus" tvg-id="epik-drama" tvg-logo="https://epg.iptvx.one/picons/epik-drama.png", Viasat Epic Drama
+#EXTINF:-1 group-title="Кино" tvg-rec="3" audio-track="rus" tvg-id="epik-drama" tvg-logo="https://epg.iptvx.one/picons/epik-drama.png", Epic Drama HD
 http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="0" audio-track="rus" tvg-id="kinoliving" tvg-logo="https://epg.iptvx.one/picons/kinoliving.png", Kinoliving 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -313,7 +295,7 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/7261/index.m3u8
 http://stream.mcquack.net/258/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4ever-drama" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/4ever-drama.png", 4ever Drama 
 http://stream.mcquack.net/260/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus",Kinogrande UA
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="Kinogrande.ua" tvg-name="Kinogrande HD,Kinogrande HD UA
 http://stream.mcquack.net/456/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино" tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png",Suspense HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2049/index.m3u8
@@ -323,14 +305,6 @@ http://185.46.16.239:8000/Kino_TV
 https://tinyurl.com/teh55yef/5006/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vhska-serial",VHS-ка Сериал HD
 https://tinyurl.com/teh55yef/31931/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://epg.iptvx.one/picons/liberty-rusfilm.png" tvg-id="liberty-rusfilm", Liberty РусФильм 4K
-http://vz2tmkdw.otttv.pw/iptv/PN72TRC6UNHLF9/18046/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/liberty-trillery.png" tvg-id="liberty-trillery", Liberty Триллеры 4K
-http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/15089/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/liberty-semejny.png" tvg-id="liberty-semejny", Liberty Семейный 4K
-http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/18178/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/liberty-kinomiks.png" tvg-id="liberty-kinomiks", Liberty Кино Микс 4K
-http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/15110/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://raw.githubusercontent.com/UFOTVM/LOGO/refs/heads/main/SeleCaoTV.png",SeleCaoTV Кино
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="fx-pl", FX HD
@@ -445,6 +419,30 @@ http://tv.ttk.mx:9113
 http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" audio-track="rus", Shot TV
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinoklas", Сити Эдем — КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinomist", Сити Эдем — КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinosem", Сити Эдем — КиноСемья
+https://cityeden.catcast.tv/content/38128/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinoact", Сити Эдем — КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино" tvg-id="cityedem-telenov" , Сити Эдем — ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
+https://cityeden.catcast.tv/content/38398/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино" tvg-id="cityedem-kinoazia", Сити Эдем — КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8?password=loganet
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-28/81/8c/818cc0846fd903cd2943d9cfc9a48486.jpg?size=l" tvg-id="no_epg_cinema" group-title="Кино", Apple TV+Action Time
 https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=waj95cuyyi8uqhMviY5J5Q&e=2088331937&scheme=https
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-28/ff/e0/ffe0813d42945ce49830c8631a8eeb72.jpg?size=l" tvg-id="no_epg_cinema" group-title="Кино", Apple TV+Woman's Story
