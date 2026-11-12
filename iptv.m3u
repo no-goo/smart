@@ -287,15 +287,13 @@ http://stream.mcquack.net/395/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="kino-1-hd" tvg-logo="https://epg.iptvx.one/picons/kino-1-hd.png", Kino 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/465/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="tvg-id="filmUA-live", FilmUA Live
-https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="0" tvg-id="kinojam2" tvg-logo="https://epg.iptvx.one/picons/kinojam2.png", KinoJam 2 HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/7261/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4ever-cinema" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/4ever-cinema.png", 4ever Cinema 
 http://stream.mcquack.net/258/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4ever-drama" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/4ever-drama.png", 4ever Drama 
 http://stream.mcquack.net/260/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="Kinogrande.ua" tvg-name="Kinogrande HD,Kinogrande HD UA
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="Kinogrande" tvg-name="Kinogrande HD,Kinogrande HD UA
 http://stream.mcquack.net/456/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино" tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png",Suspense HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2049/index.m3u8
