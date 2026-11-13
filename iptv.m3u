@@ -260,7 +260,7 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2037/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png", Cinema 
 http://stream.mcquack.net/62/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosat" tvg-logo="https://epg.iptvx.one/picons/kinosat.png", Киноман
-https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+http://88.218.242.237:8001/kinoman
 #EXTINF:-1 group-title="Кино" tvg-id="kinosweet" tvg-rec="7" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/kinosweet.png" tvg-rec="7" timeshift="7",Kinosweet
 http://stream.mcquack.net/447/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="0" tvg-id="tv1000-action-cee"  tvg-logo="https://epg.iptvx.one/picons/tv1000-action-cee.png" , Viasat Kino Action
@@ -366,7 +366,7 @@ http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" group-title="Кино", Amedia 1 HD
 http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Кино", Amedia 2 HD
-http://tv.ttk.mx:9156
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2046/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit" group-title="Кино", Amedia Hit HD
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia-premium.png" tvg-id="amedia-premium" group-title="Кино", Amedia PREMIUM HD
