@@ -155,18 +155,10 @@ http://stream.mcquack.net/237/index.m3u8
 http://103.163.132.53/iptv/V5LQDM4CPUCC2C/18072/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png", Патриот
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31928/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="bolt-ru" tvg-logo="https://epg.iptvx.one/picons/bolt.png", Bolt HD
-http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Bolt HD
-http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="star-cinema" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/star-cinema.png",Star Cinema
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="https://iptvx.one/picons/start-air.png" tvg-id="start-air", Start Air
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="start-world" tvg-logo="https://epg.iptvx.one/picons/start-world.png", START World 
-https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Кино", Star Family
-https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Кино" tvg-id="4682" tvg-rec="7", CineMan
 http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-premium" tvg-rec="3",CineMan Premium
@@ -261,7 +253,7 @@ http://stream.mcquack.net/434/index.m3u8
 http://stream.mcquack.net/425/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b" tvg-name="Plan B HD", PLAN B HD 
 http://stream.mcquack.net/196/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кino_kanal
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7" tvg-id="no_epg_cinema" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg",Кino_kanal
 http://stream.mcquack.net/470/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="0"  tvg-id="romance" tvg-logo="https://epg.iptvx.one/picons/romance.png", Romance HD 
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2037/index.m3u8
@@ -371,8 +363,6 @@ http://stream.mcquack.net/263/index.m3u8
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi" audio-track="rus", .Sci-Fi
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="sony-scifi" audio-track="rus", .Sci-Fi HD
-http://live.uspeh-bil.ru/8115/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" tvg-id="amedia1" group-title="Кино", Amedia 1 HD
 http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia2.png" tvg-id="amedia2" group-title="Кино", Amedia 2 HD
@@ -416,8 +406,6 @@ https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=7Z
 https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Nj6DVhChKCo3AEX0JcbkwA&e=2093771578&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg?size=s",ЛУЧШИЕ КОМЕДИЙНЫЕ ФИЛЬМЫ
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=KM2fQP3KDyxO_2oIDH4XTA&e=2093771628&scheme=
-#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="https://pic.rtbcdn.ru/user/2026-09-10/f2/05/f2054b3cce30c23670a71b63ec3b353f.jpg?size=s",Sony Cine
-https://river-m9-rtk-352.rtbcdn.ru/stream/genetta-404.ntv.rutube.ru/Jg2iahrX9hwyim6O33mZpA/1795175140/053ac917a4334e240103ca55941f869f/720p_stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://pic.rtbcdn.ru/user/d0/24/d02422c0078c8517a1a4c2678a25529b.jpg",Фильмач Кино и сериалы
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg" tvg-id="no_epg_cinema" group-title="Кино", Твой кинотеатр
