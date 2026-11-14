@@ -426,10 +426,6 @@ https://cityeden.catcast.tv/content/38398/index.m3u8?password=loganet
 https://cityeden.catcast.tv/content/34393/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8?password=loganet
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png" group-title="Развлекательные", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png" group-title="Развлекательные", Твоё ТВ Юмор HD
