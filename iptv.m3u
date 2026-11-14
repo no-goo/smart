@@ -169,7 +169,7 @@ http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
 https://tinyurl.com/4tfv9tup/11006/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4684" tvg-rec="7", CineMan Thriller
 https://tinyurl.com/4tfv9tup/11007/index.m3u8
-#EXTINF:-1 group-title="Кино"  tvg-id="4686" tvg-logo="http://epg.one/img2/4686.png" tvg-rec="7", CineMan Мелодрама
+#EXTINF:-1 group-title="Кино" tvg-id="cineman-melodrama" tvg-logo="http://epg.one/img2/4686.png" tvg-rec="7", CineMan Мелодрама
 https://tinyurl.com/4tfv9tup/11008/index.
 #EXTINF:-1 group-title="Кино" tvg-id="5585" tvg-rec="0", CineMan Катастрофы
 https://tinyurl.com/upwnsw7p/15106/index.m3u8
