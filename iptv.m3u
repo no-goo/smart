@@ -113,9 +113,11 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 https://stream.smotrim.ru/hls3/fasttv01/playlist.m3u8?entity=channel&id=394&sign=c87e698e917734d17feb8a476630eb24
 #EXTINF:-1 group-title="Кино" tvg-id="smotrim-100-muzhskoe",Смотрим 100% Мужское
 https://stream.smotrim.ru/hls3/fasttv02/playlist.m3u8?entity=channel&id=398&sign=2511a45ee2ce6981dce0de5a9e423490
-#EXTINF:-1 group-title="Кино" tvg-logo="https://pic.rtbcdn.ru/user/c4/53/c453149b8774d33966cf7967c0647bfd.jpg?size=s",EPIC MEDIA
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg?size=s",Детективы КД
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/c4/53/c453149b8774d33966cf7967c0647bfd.jpg?size=s",EPIC MEDIA
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ibnMIpOvCdYmgZODVh4wiw&e=2092995939&scheme=https
-#EXTINF:-1 group-title="Кино" tvg-logo="https://pic.rtbcdn.ru/user/c4/53/c453149b8774d33966cf7967c0647bfd.jpg",EPIC MEDIA Love
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/c4/53/c453149b8774d33966cf7967c0647bfd.jpg",EPIC MEDIA Love
 https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=hbk4pibd5x6-oN010Y0BZg&e=2093170661&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg?size=s",Киножелезо.Фильмы и сериалы 
 https://river-m9-rtk-318.rtbcdn.ru/stream/genetta-412.ntv.rutube.ru/mPXJMhxr7iymVh8aJH-wkA/1795177480/4965b7b928c4a143d708ab424be01d37/1080p_stream.m3u8
@@ -261,7 +263,7 @@ http://stream.mcquack.net/433/index.m3u8
 http://stream.mcquack.net/434/index.m3u8
 #EXTINF:-1 group-title="Кино"  tvg-rec="7" timeshift="7", Fresh Kids
 http://stream.mcquack.net/425/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg",Кino_kanal
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg",КinoKanal
 http://stream.mcquack.net/470/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="0"  tvg-id="romance" tvg-logo="https://epg.iptvx.one/picons/romance.png", Romance HD 
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2037/index.m3u8
@@ -297,12 +299,14 @@ http://stream.mcquack.net/258/index.m3u8
 http://stream.mcquack.net/260/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="yes-action" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/yes-action.png",Yes MOVIES ACTION. 
 http://stream.mcquack.net/380/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="kinogrande" tvg-id="no_epg_cinema",Kinogrande HD
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="kinogrande" tvg-name="Kinogrande HD" ,Kinogrande HD
 http://stream.mcquack.net/456/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино" tvg-id="suspense" tvg-logo="https://epg.iptvx.one/picons/suspense.png",9-1-1 HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2049/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="0" tvg-id="kinojam2" tvg-logo="https://epg.iptvx.one/picons/kinojam2.png", KinoJam 2 HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/7261/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="detectivejam" tvg-logo="https://epg.iptvx.one/picons/detectivejam.png",DetectiveJam_HD
+http://88.218.242.237:8001/DetectiveJam_HD
 #EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/cinema-ru.png", Cinema 
 http://stream.mcquack.net/62/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv21m.png" tvg-id="tv21m" group-title="Кино", ТВ21
@@ -400,7 +404,7 @@ https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=aY
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2026-08-05/1b/aa/1baa4a10540094c7f6b7ff6497b437e9.jpg?size=s",AMAZON PRIME ROMANCE
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sxYvd7zHm-yz4Db2sOmybQ&e=2092679758&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2026-08-05/1b/aa/1baa4a10540094c7f6b7ff6497b437e9.jpg?size=s",AMAZON PRIME VIDEO LIVE
-https://river-3-345.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/NaTrPaP7m7XnJq05WX_anw/1795342852/99f8f1d827641b766de62fe9023642fa/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg?size=s",ЛУЧШИЕ ЭКШН ФИЛЬМЫ
 https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=cPgebOs4jK1aH88UwoIL-w&e=2093771364&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg?size=s",ЛУЧШИЕ ФАНТАСТИЧЕСКИЕ ФИЛЬМЫ
@@ -409,6 +413,8 @@ https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=7Z
 https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Nj6DVhChKCo3AEX0JcbkwA&e=2093771578&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg?size=s",ЛУЧШИЕ КОМЕДИЙНЫЕ ФИЛЬМЫ
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=KM2fQP3KDyxO_2oIDH4XTA&e=2093771628&scheme=
+#EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg?size=s",FilmOFF HD
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
 #EXTINF:-1 group-title="Кино"tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/d0/24/d02422c0078c8517a1a4c2678a25529b.jpg",Фильмач Кино и сериалы
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg" tvg-id="no_epg_cinema" group-title="Кино", Твой кинотеатр
