@@ -154,7 +154,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31928/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="https://iptvx.one/picons/start-air.png" tvg-id="start-air", Start Air
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="start-world" tvg-logo="https://epg.iptvx.one/picons/start-world.png", START World 
-https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv2
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19248/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosezon" tvg-logo="https://iptvx.one/picons/kinosezon.png", КиноСезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4691" tvg-rec="7", CineMan РуКино
@@ -314,7 +314,7 @@ http://stream.mcquack.net/207/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="hollywood" audio-track="rus" tvg-logo="https://iptvx.one/picons/hollywood.png", HollywooD HD
 http://stream.mcquack.net/268/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b" tvg-name="Plan B HD", PLAN B HD 
-http://stream.mcquack.net/152/tracks-v1a1/mono.ts.m3u8
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19249/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="fanhd", FAN HD
 http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" tvg-id="vhs-ka" group-title="Кино",VHS-ка
@@ -400,8 +400,7 @@ https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=aY
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2026-08-05/1b/aa/1baa4a10540094c7f6b7ff6497b437e9.jpg?size=s",AMAZON PRIME ROMANCE
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sxYvd7zHm-yz4Db2sOmybQ&e=2092679758&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2026-08-05/1b/aa/1baa4a10540094c7f6b7ff6497b437e9.jpg?size=s",AMAZON PRIME VIDEO LIVE
-https://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/rm1G-VOKPKJhg_D4Tfsu1A/1795333415/99f8f1d827641b766de62fe9023642fa/1080p_stream.m3u8
-https://river-3-348.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/dKaEJ4f4IklaIgwSZudKkg/1795173800/99f8f1d827641b766de62fe9023642fa/1080p_stream.m3u8
+https://river-3-345.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/NaTrPaP7m7XnJq05WX_anw/1795342852/99f8f1d827641b766de62fe9023642fa/1080p_stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg?size=s",ЛУЧШИЕ ЭКШН ФИЛЬМЫ
 https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=cPgebOs4jK1aH88UwoIL-w&e=2093771364&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/2024-10-24/52/3d/523daa9a87b0cd43303c5a11a6d09f9a.jpg?size=s",ЛУЧШИЕ ФАНТАСТИЧЕСКИЕ ФИЛЬМЫ
