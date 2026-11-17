@@ -125,7 +125,7 @@ https://river-m9-rtk-318.rtbcdn.ru/stream/genetta-412.ntv.rutube.ru/mPXJMhxr7iym
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="detkinoint-tviksel" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png", Детское кино International
 http://195.209.212.23:8081/hls/Detskoe_Kino_int/playlist.m3u8
-#EXTINF:-1 tvg-id="sovkino" tvg-logo="https://epg.iptvx.one/picons/sovkino.png" group-title="Кино",Советское Кино
+#EXTINF:-1 group-title="Кино" tvg-id="sovkino" tvg-logo="https://epg.iptvx.one/picons/sovkino.png",Советское Кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium" group-title="Кино", Дом кино Premium HD
 http://stream.mcquack.net/108/index.m3u8
@@ -207,15 +207,15 @@ http://ch01.plinkspile.cc/20748/index.m3u8?token=XnuYQbT9Ly8nDX
 http://103.163.132.53/iptv/94LBT2DXEHGXHL/13028/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="5130" tvg-logo="http://epg.one/img2/5130.png" tvg-rec="0", MM UFO HD 
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/13017/index.m3u8
-#EXTINF:-1 group-title="КИНО" tvg-id="5161" tvg-id="minimax-prikluchenija"" tvg-logo="https://epg.iptvx.one/picons/minimax-prikluchenija.png",MM Приключения HD
+#EXTINF:-1 group-title="Кино" tvg-id="5161" tvg-id="minimax-prikluchenija"" tvg-logo="https://epg.iptvx.one/picons/minimax-prikluchenija.png",MM Приключения HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/13048/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4749" tvg-logo="http://epg.one/img2/4749.png" tvg-rec="7",BCU Catastrophe HD
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/11028/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4753" tvg-logo="http://epg.one/img2/4753.png" tvg-rec="7",BCU Fantastic HDR
 http://103.163.132.53/iptv/94LBT2DXEHGXHL/11032/index
-#EXTINF:-1 group-title="КИНО" tvg-id="bcu-action" tvg-id="4748" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png", BCU Action HD
+#EXTINF:-1 group-title="Кино" tvg-id="bcu-action" tvg-id="4748" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png", BCU Action HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11027/index.m3u8
-#EXTINF:-1 group-title="КИНО" tvg-id="4750" tvg-id="bcu-cinema" tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png",BCU Cinema HDR
+#EXTINF:-1  group-title="Кино" tvg-id="4750" tvg-id="bcu-cinema" tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png",BCU Cinema HDR
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11029/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4763" tvg-logo="http://epg.one/img2/4763.png" tvg-rec="7",BCU VHS HD
 http://nl01.plinkspile.cc/20822/index.m3u8?token=XnuYQbT9Ly8nDX
@@ -225,11 +225,11 @@ http://103.163.132.53/iptv/W7KZBRRZFVH9MN/11031/index.m3u8
 http://stream.mcquack.net/488/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="5361" tvg-logo="http://epg.one/img2/5361.png" tvg-rec="0",YOSSO TV Советские фильмы
 http://103.163.132.53/iptv/PR5ML8LT75UHRF/14175/index.m3u8
-#EXTINF:-1  group-title="КИНО" tvg-id="yosso-best" tvg-logo="https://epg.iptvx.one/picons/yosso-best.png",Yosso TV Best
+#EXTINF:-1 group-title="Кино" tvg-id="yosso-best" tvg-logo="https://epg.iptvx.one/picons/yosso-best.png",Yosso TV Best
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/14236/index.m3u8
-#EXTINF:-1 group-title="КИНО" tvg-id="5984" tvg-id="yosso-adventure" tvg-logo="https://epg.iptvx.one/picons/yosso-adventure.png",Yosso Adventure
+#EXTINF:-1 group-title="Кино" tvg-id="5984" tvg-id="yosso-adventure" tvg-logo="https://epg.iptvx.one/picons/yosso-adventure.png",Yosso Adventure
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/15510/index.m3u8
-#EXTINF:-1 group-title="КИНО" tvg-id="0000" tvg-id="veles-mh" tvg-logo="https://epg.iptvx.one/picons/veles-mh.png",VeleS Movie Hits
+#EXTINF:-1 group-title="Кино" tvg-id="0000" tvg-id="veles-mh" tvg-logo="https://epg.iptvx.one/picons/veles-mh.png",VeleS Movie Hits
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/31644/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="vf-komedia"  tvg-logo="https://epg.iptvx.one/picons/vf-komedia.png", VF Комедия
 http://103.163.132.53/iptv/94LBT2DXEHGXHL/10055/index.m3u8
@@ -341,7 +341,7 @@ https://tinyurl.com/teh55yef/5006/index.m3u8
 http://stream.mcquack.net/385/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vhska-serial",VHS-ка Сериал HD
 https://tinyurl.com/teh55yef/31931/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="fx-pl",FX HD
+#EXTINF:-1 group-title="Кино" audio-track="rus tvg-id="fox"",FX HD
 http://stream.mcquack.net/182/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="foxlife", FX Life HD
 http://stream.mcquack.net/129/tracks-v1a1/mono.ts.m3u8
