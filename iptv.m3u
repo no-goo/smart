@@ -117,7 +117,8 @@ https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ib
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/c4/53/c453149b8774d33966cf7967c0647bfd.jpg",EPIC MEDIA Love
 https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=hbk4pibd5x6-oN010Y0BZg&e=2093170661&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="no_epg_cinema" tvg-logo="https://pic.rtbcdn.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg?size=s",Киножелезо.Фильмы и сериалы 
-https://river-m9-rtk-318.rtbcdn.ru/stream/genetta-412.ntv.rutube.ru/mPXJMhxr7iymVh8aJH-wkA/1795177480/4965b7b928c4a143d708ab424be01d37/1080p_stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=BrC0ZA7chsWoWdRDaE_d1Q&e=2095021378&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-id="domkino" tvg-name="Дом кино", Дом кино
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="detkinoint-tviksel" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png", Детское кино International
@@ -147,7 +148,7 @@ https://tinyurl.com/4tfv9tup/2434/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vremia" tvg-logo="https://epg.iptvx.one/picons/vremia.png", Время 
 http://stream.mcquack.net/237/index.m3u8  
 #EXTINF:-1 group-title="Кино" tvg-id="voenkino-tviksel" tvg-logo="http://epg.one/img2/6259.png", Военное кино HD
-http://103.163.132.53/iptv/VK7YCHHWNDD8XC/18072/index.m3u8
+http://103.163.132.53/iptv/94LBT2DXEHGXHL/18072/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png", Патриот
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31928/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" tvg-logo="https://iptvx.one/picons/start-air.png" tvg-id="start-air", Start Air
@@ -758,7 +759,8 @@ https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://epg.iptvx.one/picons/city-tv-bg.png" tvg-id="city-tv-bg",City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus",VIVA Russia
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=LuXkMb3PfY2D3sIHhQ_ZzQ&e=2094571267&scheme=https
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=TdiACJ0rmyDrGDP909gw_Q&e=2095021423&scheme=https
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" tvg-id="viva-rus",VIVA Russia rut
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=gMiCSZ4n6zXhu914XD0K0Q&e=2088807415&scheme=https
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" tvg-id="europa-plus-tv", Europa Plus TV
