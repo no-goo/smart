@@ -156,6 +156,8 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31928/index.m3u8
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="start-world" tvg-logo="https://epg.iptvx.one/picons/start-world.png", START World 
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19248/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus" tvg-id="star-cinema" tvg-logo="https://epg.iptvx.one/picons/star-cinema.png", Star Cinema
+http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosezon" tvg-logo="https://iptvx.one/picons/kinosezon.png", КиноСезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://epg.iptvx.one/picons/lubimoe-kino.png" group-title="Кино", Любимое кино
@@ -568,7 +570,7 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=f6
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tnt-sports-prem-ar.png" tvg-id="tnt-sports-prem-ar" group-title="Спорт",TNT SPORTS 1 HD
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=hrqmu7iM34XUP7Jw7GqFHg&e=2082500310&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/animal-planet-eu.png" tvg-id="animal-planet-eu" group-title="Познавательные",Animal Planet HD
-http://stream.mcquack.net/114/index.m3u8
+http://91.205.196.7:8000/play/a029
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=G_MLL6rXsWu3E14ydKWGCg&e=2088894145&scheme=https
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/history.png" tvg-id="history" group-title="Познавательные",History HD
@@ -576,7 +578,7 @@ http://stream-tv-prostar.hf.space/ch/AA2102W?key=AB001829BB
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
-http://stream.mcquack.net/149/index.m3u8
+http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=XIlYETIzEf8C7a-PCDWWwA&e=2088331934&scheme=https
 #EXTINF:-1 group-title="Познавательные",Viasat Explore HD
@@ -584,15 +586,19 @@ http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="viasat-history" group-title="Познавательные",Visast History HD
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature HD
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1148928&extension=ts&play_token=eARCTWLYIx
+#EXTVLCOPT:http-user-agent=TiviMate
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_NATUREHD.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/love-nature-4k.png" tvg-id="love-nature-4k" group-title="Познавательные",Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="https://epg.iptvx.one/picons/viasat-nature.png",viju Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=TiviMate
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_NATUREHD.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-" tvg-logo="https://epg.iptvx.one/picons/viasat-nature-history-hd.png",viju+ Planet HD (1080p)
 http://stream.mcquack.net/240/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
-http://89.33.29.115:8080/Glazami_turista_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=TiviMate
+http://dmitry-tv.ddns.net/hls/CH_GLAZAMI_TURISTA.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zoopark.png" tvg-id="zoopark" group-title="Познавательные",Зоопарк
@@ -602,7 +608,7 @@ http://tv.ttk.mx:9071
 #EXTINF:-1 group-title="Познавательные",Планета HD
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные",Big Planet HD
-https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Познавательные",Terra HD
 http://195.64.140.147:10150/150
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tlc.png" tvg-id="tlc" group-title="Познавательные", TLC
@@ -615,8 +621,7 @@ http://91.247.68.229:8000/play/Travelxp/index.m3u8
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая природа HD
 http://stream.mcquack.net/225/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/love-nature-4k.png" tvg-id="love-nature-4k" group-title="Познавательные",Love Nature 4K
-https://jmp2.uk/stvp-USBA3400003IP
+
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
 https://ott.ip-tv.workers.dev/stream/L0FBMTEyMVcvaW5kZXgubTN1OA==?key=halva
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="https://epg.iptvx.one/picons/travel-channel.png",Travel Channel HD
