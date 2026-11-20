@@ -47,10 +47,11 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=2h
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rt-doc.png" tvg-id="rtd-ru" group-title="Основные", RT Doc HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ HD
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rentv.png" tvg-id="rentv" group-title="Основные", Рен ТВ 
 http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ
-http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="Основные", Рен ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://edge02p.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.-fc26k2gSMK1ajv5t28vpUrqb9Yavl_2EEZjNEPN9Co.Hs1eHXE48hQRq-WooQ25zflLQxSg-HKc4nZPtXMVY2U.1795695208.e9d9e8b49ddaa7039508033728464a1c
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/rbk.png" tvg-id="rbk" group-title="Основные", РБК
 http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="deutsche-welle-ru" audio-track="rus" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png", Deutsche Welle HD
@@ -171,7 +172,7 @@ http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
 https://tinyurl.com/4tfv9tup/11006/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4684" tvg-rec="7", CineMan Thriller
 https://tinyurl.com/4tfv9tup/11007/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="4686" tvg-logo="http://epg.one/img2/4686.png" tvg-rec="7", CineMan Мелодрама
+#EXTINF:-1 group-title="Кино" tvg-id="4686" tvg-rec="7" tvg-logo="http://epg.one/img2/4686.png",CineMan Мелодрама
 https://tinyurl.com/4tfv9tup/11008/index.
 #EXTINF:-1 group-title="Кино" tvg-id="5585" tvg-rec="0", CineMan Катастрофы
 https://tinyurl.com/upwnsw7p/15106/index.m3u8
@@ -187,6 +188,8 @@ https://tinyurl.com/4tfv9tup/11012/index.m3u8
 https://tinyurl.com/upwnsw7p/31626/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-ruserials" tvg-rec="0", CineMan Комедийные Сериалы
 https://tinyurl.com/upwnsw7p/31628/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vf-swty" tvg-logo="https://epg.iptvx.one/picons/vf-swty.png",VF Сваты 
+http://103.163.132.53/iptv/94LBT2DXEHGXHL/13080/manifest.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="cineman-svaty" tvg-rec="7", CineMan Сваты
 http://stream.mcquack.net/359/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="bcu-svaty",BCU Сваты HD
